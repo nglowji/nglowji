@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Nguyen Tan Loi
 🚀 Final-year IT Student | .NET Backend Developer
 
-🎓 Sinh viên năm cuối ngành CNTT, định hướng phát triển thành **Backend Engineer (.NET)**.  
-💡 Tập trung vào: Clean Architecture, RESTful API, System Design & Docker.  
-🎯 Mục tiêu: Viết code sạch, dễ bảo trì và xây dựng các hệ thống backend tối ưu.  
+🎓 Final-year IT student aspiring to become a **Backend Engineer (.NET)**.  
+💡 Focusing on: Clean Architecture, RESTful APIs, System Design, and Docker.  
+🎯 Goal: Write clean, maintainable code and build scalable backend systems.  
 
 ---
 
@@ -20,13 +20,13 @@
 ### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-* Thiết kế CSDL (ERD, Normalization) & Tối ưu truy vấn
+* Database Design (ERD, Normalization) & Query Optimization
 
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 * Git/GitHub Workflow
-* Dockerize ứng dụng .NET
+* Dockerize .NET applications
 * Basic CI/CD
 
 ---
