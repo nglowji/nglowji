@@ -2,25 +2,26 @@
 
 Backend Developer | ASP.NET Core | .NET Ecosystem
 
-Final-year Information Technology student with a strong interest in backend development and software architecture. Passionate about building scalable, maintainable, and high-performance systems using modern .NET technologies.
+Final-year Information Technology student with a strong interest in backend development. I focus on building clean, maintainable, and scalable web APIs using ASP.NET Core and modern backend practices.
 
 Currently focusing on:
 
 * ASP.NET Core Web API
 * Clean Architecture
-* CQRS & MediatR
-* Relational Databases
-* Distributed Systems Fundamentals
-* Docker & CI/CD
+* RESTful API Design
+* Database Design
+* Authentication & Authorization
+* Docker
+* CI/CD Fundamentals
 
 ---
 
 ## About Me
 
 * Final-year IT student.
-* Backend-focused developer with hands-on experience building real-world systems.
-* Interested in system design, software architecture, and backend engineering.
-* Continuously learning modern development practices and engineering principles.
+* Backend-focused developer with hands-on experience building web applications.
+* Interested in clean code, software architecture, and system design fundamentals.
+* Continuously improving my skills in .NET backend development and database optimization.
 
 ---
 
@@ -30,8 +31,10 @@ Currently focusing on:
 
 * C#
 * ASP.NET Core
-* RESTful API Design
-* Authentication & Authorization (JWT, Refresh Token)
+* RESTful API
+* Entity Framework Core
+* Authentication & Authorization
+* JWT & Refresh Token
 * Middleware
 * Dependency Injection
 * SignalR
@@ -40,7 +43,6 @@ Currently focusing on:
 ### Software Architecture
 
 * Clean Architecture
-* Domain-Driven Design (DDD)
 * CQRS
 * Repository Pattern
 * Unit of Work
@@ -52,15 +54,14 @@ Currently focusing on:
 * Microsoft SQL Server
 * PostgreSQL
 * MongoDB
-* Entity Framework Core
 * Database Design
 * Query Optimization
 * Indexing
 
 ### DevOps & Tools
 
-* Docker
 * Git & GitHub
+* Docker
 * GitHub Actions
 * Postman
 * Swagger/OpenAPI
@@ -77,42 +78,70 @@ Currently focusing on:
 
 ### SmartSport – Sports Booking Platform
 
-Enterprise-style sports booking platform developed with ASP.NET Core and Clean Architecture.
+Sports booking and facility management platform built with ASP.NET Core and Clean Architecture.
 
 Key Highlights:
 
-* Built using DDD, CQRS, and MediatR
-* JWT Authentication & Authorization
-* Real-time updates using SignalR
-* VNPAY payment integration
-* Redis caching
-* PostgreSQL database
-* Concurrency handling to prevent double-booking
-* Docker containerization
-* GitHub Actions CI/CD
+* Designed and developed RESTful APIs for booking, user management, venue management, and payment workflows.
+* Implemented JWT Authentication and Role-Based Authorization.
+* Applied Clean Architecture to separate business logic, application logic, and infrastructure concerns.
+* Used CQRS with MediatR to separate command and query responsibilities.
+* Integrated SignalR for real-time booking status updates.
+* Integrated VNPAY payment gateway for online payment processing.
+* Used Redis caching to improve API response time and reduce database load.
+* Handled booking concurrency to reduce double-booking conflicts.
+* Containerized the application using Docker.
+* Built basic CI/CD workflow using GitHub Actions.
 
 Tech Stack:
 
-```text
+```text id="lwlc8n"
 ASP.NET Core • PostgreSQL • Redis • SignalR
 CQRS • MediatR • Docker • GitHub Actions
 ```
 
 Repository:
 
-```text
+```text id="cpvyiv"
 https://github.com/nglowji/graduation-project-NguyenTanLoi-ASP.NET
 ```
+
+---
+
+## Other Projects
+
+### Movie Booking System
+
+Cinema booking system built with ASP.NET Core and SQL Server.
+
+Main features:
+
+* Movie management
+* Showtime management
+* Seat booking
+* User authentication
+* Booking history
+
+### Library Management System
+
+Library management system for managing books, readers, borrowing, and returning activities.
+
+Main features:
+
+* Book management
+* Reader management
+* Borrow and return tracking
+* Basic reporting
 
 ---
 
 ## Current Learning
 
 * Advanced ASP.NET Core
-* Distributed Systems
-* Microservices Fundamentals
-* System Design
-* Cloud & DevOps
+* System Design Fundamentals
+* Database Performance Optimization
+* Docker and Deployment
+* Software Testing
 
 ---
 
@@ -138,4 +167,4 @@ Facebook: https://www.facebook.com/lowji.ngt
 
 ---
 
-"First, solve the problem. Then, write the code."
+"Code is not only about making things work, but also about making them easy to maintain."
