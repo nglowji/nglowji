@@ -8,7 +8,6 @@ Currently focusing on:
 
 * ASP.NET Core Web API
 * Clean Architecture
-* Domain-Driven Design (DDD)
 * CQRS & MediatR
 * Relational Databases
 * Distributed Systems Fundamentals
