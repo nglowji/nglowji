@@ -1,170 +1,62 @@
 # Nguyen Tan Loi
 
-Backend Developer | ASP.NET Core | .NET Ecosystem
+### Backend Developer | ASP.NET Core | .NET
 
-Final-year Information Technology student with a strong interest in backend development. I focus on building clean, maintainable, and scalable web APIs using ASP.NET Core and modern backend practices.
+Backend Developer focused on building clean, maintainable, and scalable web APIs with **C# and ASP.NET Core**. Interested in software architecture, database optimization, and backend system development.
 
-Currently focusing on:
+## Tech Stack
 
-* ASP.NET Core Web API
-* Clean Architecture
-* RESTful API Design
-* Database Design
-* Authentication & Authorization
-* Docker
-* CI/CD Fundamentals
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker,github,postman" />
+</p>
 
----
-
-## About Me
-
-* Final-year IT student.
-* Backend-focused developer with hands-on experience building web applications.
-* Interested in clean code, software architecture, and system design fundamentals.
-* Continuously improving my skills in .NET backend development and database optimization.
-
----
-
-## Technical Skills
-
-### Backend Development
-
-* C#
-* ASP.NET Core
-* RESTful API
-* Entity Framework Core
-* Authentication & Authorization
-* JWT & Refresh Token
-* Middleware
-* Dependency Injection
-* SignalR
-* FluentValidation
-
-### Software Architecture
-
-* Clean Architecture
-* CQRS
-* Repository Pattern
-* Unit of Work
-* SOLID Principles
-* Design Patterns
-
-### Database
-
-* Microsoft SQL Server
-* PostgreSQL
-* MongoDB
-* Database Design
-* Query Optimization
-* Indexing
-
-### DevOps & Tools
-
-* Git & GitHub
-* Docker
-* GitHub Actions
-* Postman
-* Swagger/OpenAPI
-
-### Testing
-
-* xUnit
-* Moq
-* FluentAssertions
-
----
+**Backend:** ASP.NET Core, RESTful API, Entity Framework Core, JWT, SignalR
+**Architecture:** Clean Architecture, CQRS, MediatR, SOLID, Design Patterns
+**Database:** SQL Server, PostgreSQL, MongoDB, Redis
+**DevOps:** Docker, GitHub Actions
+**Testing:** xUnit, Moq, FluentAssertions
 
 ## Featured Project
 
-### SmartSport – Sports Booking Platform
+### SmartSport
 
-Sports booking and facility management platform built with ASP.NET Core and Clean Architecture.
+Sports Booking & Facility Management Platform built with ASP.NET Core.
 
-Key Highlights:
+* Developed RESTful APIs for booking, users, venues, and payments.
+* Applied **Clean Architecture, CQRS, and MediatR**.
+* Implemented **JWT Authentication & Role-Based Authorization**.
+* Integrated **VNPAY, SignalR, Redis, Docker, and GitHub Actions**.
+* Implemented concurrency handling to prevent double-booking.
 
-* Designed and developed RESTful APIs for booking, user management, venue management, and payment workflows.
-* Implemented JWT Authentication and Role-Based Authorization.
-* Applied Clean Architecture to separate business logic, application logic, and infrastructure concerns.
-* Used CQRS with MediatR to separate command and query responsibilities.
-* Integrated SignalR for real-time booking status updates.
-* Integrated VNPAY payment gateway for online payment processing.
-* Used Redis caching to improve API response time and reduce database load.
-* Handled booking concurrency to reduce double-booking conflicts.
-* Containerized the application using Docker.
-* Built basic CI/CD workflow using GitHub Actions.
+**Tech:** ASP.NET Core • PostgreSQL • Redis • CQRS • Docker
 
-Tech Stack:
-
-```text id="lwlc8n"
-ASP.NET Core • PostgreSQL • Redis • SignalR
-CQRS • MediatR • Docker • GitHub Actions
-```
-
-Repository:
-
-```text id="cpvyiv"
-https://github.com/nglowji/graduation-project-NguyenTanLoi-ASP.NET
-```
-
----
+[View Repository](https://github.com/nglowji/graduation-project-NguyenTanLoi-ASP.NET)
 
 ## Other Projects
 
-### Movie Booking System
+**Movie Booking System** — ASP.NET Core, SQL Server
+Cinema booking platform with movies, showtimes, seats, authentication, and booking history.
 
-Cinema booking system built with ASP.NET Core and SQL Server.
+**Library Management System** — C#, SQL Server
+System for managing books, readers, borrowing, returning, and basic reports.
 
-Main features:
+## Connect With Me
 
-* Movie management
-* Showtime management
-* Seat booking
-* User authentication
-* Booking history
-
-### Library Management System
-
-Library management system for managing books, readers, borrowing, and returning activities.
-
-Main features:
-
-* Book management
-* Reader management
-* Borrow and return tracking
-* Basic reporting
-
----
-
-## Current Learning
-
-* Advanced ASP.NET Core
-* System Design Fundamentals
-* Database Performance Optimization
-* Docker and Deployment
-* Software Testing
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nglowji&show_icons=true" />
+<p>
+  <a href="mailto:ngtanloi1709@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nglowji">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/lowji.ngt">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nglowji">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nglowji" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nglowji&show_icons=true&hide_border=true" />
 </p>
-
----
-
-## Contact
-
-Email: [ngtanloi1709@gmail.com](mailto:ngtanloi1709@gmail.com)
-
-GitHub: https://github.com/nglowji
-
-Facebook: https://www.facebook.com/lowji.ngt
-
----
-
-"Code is not only about making things work, but also about making them easy to maintain."
